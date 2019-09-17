@@ -14,7 +14,12 @@ git clone git@github.com:Artenes/rocketseat-bootcamp-module11.git
 cd module11
 ```
 
-2. Run the tests
+2. Install dependencies
+```sh
+yarn
+```
+
+3. Run the tests
 ```
 yarn test
 ```
